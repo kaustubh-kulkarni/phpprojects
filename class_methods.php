@@ -6,9 +6,9 @@ class Cars {
 function greeting(){
 
 }
-
+//Another function
 function greeting2() {
-    
+
 }
 
 }
